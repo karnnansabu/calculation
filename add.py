@@ -11,3 +11,12 @@ num2 = float(input("Enter the second number: "))
 # Call the function and display the result
 result = add_numbers(num1, num2)
 print(f"The sum of {num1} and {num2} is {result}")
+<<<<<<< HEAD
+=======
+
+
+print("Hello world")
+
+print("I am sonu")
+
+>>>>>>> e7e92c9 (this is my name)
