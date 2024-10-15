@@ -14,3 +14,10 @@ print(f"The sum of {num1} and {num2} is {result}")
 
 
 print("Hello world")
+
+
+print("Hello world")
+
+print("I am sonu")
+
+print("am 26 years old")
